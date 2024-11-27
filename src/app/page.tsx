@@ -22,6 +22,7 @@ export default function Home() {
             equipe a colaborar e colocar em prática as suas melhores ideias.
             Cadastre-se para uma avaliação gratuita hoje mesmo.
           </p>
+          <p>horario agenda</p>
           <div className="flex gap-8 justify-center md:justify-start">
             <button className="px-6 py-3 bg-gray-800 text-white rounded-md hover:bg-gray-700 font-bold">
               Fazer agenda
